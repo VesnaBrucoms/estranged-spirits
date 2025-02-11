@@ -1,0 +1,39 @@
+WHAT IF PC IN TEMPLE?
+
+Othral Ancestral Tomb, just south of eastern Andothren.
+
+A woman (Aryasi Othral) is camped outside. Talking to her reveals that she's working up the courage to enter her family's tomb. All she goes into is that they separated on bad terms, really bad terms. She is not welcome even to the spirits that guard the tomb. So she asks for your help: take out the spirits so that she can enter. (She'll force greet if you attempt to enter without speaking to her first)
+
+* Agree, begins quest (Estranged Spirits)
+* How to know whether she's actually family?
+  * Responds with: PC going in there any way, so why not? Plus PC is strong and she's not. So wouldn't think about double crossing or anything.
+    * Different response based on PC lvl:
+      1. Low: about evenly matched OR weaker but more prepared
+      2. Eq: evenly matched
+      3. High: much stronger
+* Turn down
+
+Go in, explore/loot/slay low level undead. Medium sized. Go back out to let her know, fade out to move her inside. Quest will continue when PC goes back inside to talk to her.
+
+She comments on how she feels cold and unwelcome. She notes that the one empty urn is for her, but the name is wrong. She's more willing to answer PC's questions, and describes her home life before leaving. In the end she comments about her grandmother, who died when she was very young. And remembers that she was interred in the tomb, but never found where. Suspects there's a sealed part; recalls being sent out whenever her mother prays at the shrine. She stole a ring that was her grandmothers before running away, and has been guilty. She wants to return it.
+
+Secret part of the tomb can be opened by investigating a shrine to a saint/trib. When activated a msgbox appears informing the discovery of a button, choosing to press opens the secret area.
+
+The secret area goes deeper and is two rooms: an antechamber then the room where Aryasi's grandmother is. The grandmother's spirit is there waiting, but is non-hostile.
+
+Medium sized tomb, with a handful of rooms. One secret room. Several undead that are mostly low-level with the levelled content reaching 10 at the most. In the main room are several urns (at least 3) that are uniquely named with ash and unique items either inside on beside the urn. (Like with Lord Brine with the Mentor's Ring.)
+
+Named urns:
+* Goryn Othral (Aryasi's, empty)
+* Lletho Othral (ashes, bonemold right & left gauntlet)
+* Jathys Othral (ashes, chitin sword)
+
+Inside initial rooms with low level undead. Book on lecturn talking about the family, 3 brothers, 2 dead 1 "lost". In one of the brother's burial rooms is a woman standing infront of an empty urn. She doesn't talk much except about her brothrs and how the family pushed her away. How she always wanted to be like Almalexia but they mocked her for it. She doesn't mind if you loot their shit and gives you a key to continue deeper. If PC low level she comments that you'll probs die, if high enough level she'll comment that PC can handle themselves.
+
+Sealed part of the tomb is larger and more dangerous. Each family member has a special item associated with them. The mother has a very expensive and high enchant ring. When PC picks it up the lady comes up and asks for it. PC can choose to:
+
+1. Give it to her
+2. Demand something in return
+ * She'll offer what the ring is in gems and some gold, but doesn't like you as much
+3. Refuse
+  * If low level she'll attack, if high level she'll opt against it but hates you for it
