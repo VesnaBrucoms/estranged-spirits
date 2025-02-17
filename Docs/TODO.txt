@@ -1,11 +1,16 @@
 * add door in front to entrance
-* fix "spirits of my family" topic appearing at start
-* shorten fades
-* add ModDisposition calls
-* remove old stage 5
+* add remaining ModDisposition calls
 * replace other urns with Uravasa's with items
 * adjust whispers
   * sink in antechamber
   * merge in 1st room
 * fix skeleton archer sounds
 * drop ring value
+* Feedback message when interacting with the shrine
+
+Quest still needs to account for:
+  * PC demanding more money at start (dependent on PC level, refuses at <= 2, acquieces > 2)
+  * PC disturbing remains
+    * End quest after clearing tomb
+    * Does not give out ring if grandmother's disturbed
+  * reflect in dialogue if PC picks up heirlooms
