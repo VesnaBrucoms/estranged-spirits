@@ -1,0 +1,11 @@
+* add door in front to entrance
+* fix "spirits of my family" topic appearing at start
+* shorten fades
+* add ModDisposition calls
+* remove old stage 5
+* replace other urns with Uravasa's with items
+* adjust whispers
+  * sink in antechamber
+  * merge in 1st room
+* fix skeleton archer sounds
+* drop ring value
