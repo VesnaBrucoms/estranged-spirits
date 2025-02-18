@@ -1,7 +1,9 @@
-# Othral Ancestral Tomb
+# Othral Ancestral Tomb (Estranged Spirits)
 
-Come across Aryasi a little ways out of eastern Andothren who needs help clearing her family's tomb so that it's
-safe enough for her to enter.
+Help Aryasi Othral speak to the spirit's of her family. Or not!
+
+A mod for Tamriel Rebuilt, *Othral Ancestral Tomb* adds a short dungeon and associated quest a little ways
+out of eastern Andothren. The quest focuses on player choice.
 
 ## Requirements
 
