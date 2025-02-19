@@ -1,4 +1,4 @@
-* add remaining ModDisposition calls
-* replace other urns with Uravasa's with items
-* drop ring value
-* Feedback message when interacting with the shrine
+* replace "Continue"
+Exterior:
+* add fire
+* add food sack
