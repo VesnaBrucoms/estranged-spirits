@@ -1,5 +1,1 @@
-* add fresco to final room
-Exterior:
-* add fire
-* add food sack
-* replace "Continue"
+* clean with TESAME
