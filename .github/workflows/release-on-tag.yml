@@ -7,8 +7,8 @@ on:
 permissions:
   contents: write
 env:
-  ZIPFILE_NAME: OthralAncestralTomb
-  README_NAME: Othral Ancestral Tomb Readme
+  ZIPFILE_NAME: Estranged Spirits
+  README_NAME: Estranged Spirits Readme
 jobs:
   build:
     runs-on: ubuntu-latest
