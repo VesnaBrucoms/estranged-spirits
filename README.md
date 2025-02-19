@@ -1,4 +1,4 @@
-# Othral Ancestral Tomb (Estranged Spirits)
+# Estranged Spirits
 
 Help Aryasi Othral speak to the spirits of her family. Or not!
 
