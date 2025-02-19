@@ -32,6 +32,9 @@ Help Aryasi Othral speak to the spirits of her family. Or not!
 
 A mod for Tamriel Rebuilt, Estranged Spirits adds a short dungeon and associated quest a little ways out of eastern Andothren. The quest focuses on player choice.
 
+To reach Othral Ancestral Tomb, leave Andothren through the east gate and simply follow the road until you get to a river. Cross it and the tomb
+will be on your left.
+
 ============
 Permissions
 ============
