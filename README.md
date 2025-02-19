@@ -1,6 +1,6 @@
 # Othral Ancestral Tomb (Estranged Spirits)
 
-Help Aryasi Othral speak to the spirit's of her family. Or not!
+Help Aryasi Othral speak to the spirits of her family. Or not!
 
 A mod for Tamriel Rebuilt, *Othral Ancestral Tomb* adds a short dungeon and associated quest a little ways
 out of eastern Andothren. The quest focuses on player choice.

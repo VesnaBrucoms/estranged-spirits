@@ -1,4 +1,5 @@
-* replace "Continue"
+* add fresco to final room
 Exterior:
 * add fire
 * add food sack
+* replace "Continue"
