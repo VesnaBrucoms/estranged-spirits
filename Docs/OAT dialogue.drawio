@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.15">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.16">
   <diagram name="Page-1" id="907H_8X75_HjY04pCW_Z">
     <mxGraphModel dx="3785" dy="1836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOSCpickuRpwtorIMnZY-3">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IOSCpickuRpwtorIMnZY-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="550" as="targetPoint" />
             <Array as="points">
@@ -147,7 +147,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOSCpickuRpwtorIMnZY-3">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="IOSCpickuRpwtorIMnZY-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="870" y="550" as="targetPoint" />
             <Array as="points">
@@ -243,7 +243,7 @@
         <mxCell id="IOSCpickuRpwtorIMnZY-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IOSCpickuRpwtorIMnZY-24" target="IOSCpickuRpwtorIMnZY-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IOSCpickuRpwtorIMnZY-50" value="&lt;div&gt;Just as Ghostfence is a monument to Dunmer pride in overcoming our enemies,&lt;/div&gt;&lt;div&gt;so too should you in standing up for yourself against a family that should know better.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IOSCpickuRpwtorIMnZY-49" vertex="1" connectable="0">
+        <mxCell id="IOSCpickuRpwtorIMnZY-50" value="&lt;div&gt;Just as Ghostfence is a monument to Dunmer pride in overcoming our enemies,&lt;/div&gt;&lt;div&gt;so too should you in staying true to yourself and doing what you must.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IOSCpickuRpwtorIMnZY-49" vertex="1" connectable="0">
           <mxGeometry x="0.9064" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -284,11 +284,39 @@
         <mxCell id="IOSCpickuRpwtorIMnZY-33" value="Continue through &quot;hidden section&quot; topic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="-385" y="963.57" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOSCpickuRpwtorIMnZY-34" value="I do, and all of them are of my grandmother. I loved how she could do so much with her magic, how she could turn invisible or make someone like her more. Though she died before... I changed. I&#39;ve often wondered whether she&#39;d accept me, but this silence says not. Yet I can&#39;t help but drag up an old hope that she&#39;s actually in a hidden section of the tomb." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-25" y="838.57" width="350" height="110" as="geometry" />
+        <mxCell id="veY12ddWGGK74OkhvajF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOSCpickuRpwtorIMnZY-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-520" y="1320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="1100" />
+              <mxPoint x="-190" y="1100" />
+              <mxPoint x="-190" y="1260" />
+              <mxPoint x="-520" y="1260" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="IOSCpickuRpwtorIMnZY-37" value="Continue through &quot;hidden section&quot; topic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="35" y="963.57" width="230" height="30" as="geometry" />
+        <mxCell id="veY12ddWGGK74OkhvajF-4" value="&lt;div&gt;Make a promise to yourself to live your life to make her proud.&lt;/div&gt;&lt;div&gt;Then return when you&#39;re ready.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="veY12ddWGGK74OkhvajF-1">
+          <mxGeometry x="-0.3857" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="veY12ddWGGK74OkhvajF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="IOSCpickuRpwtorIMnZY-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-130" y="1320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="1200" />
+              <mxPoint x="-129" y="1200" />
+              <mxPoint x="-129" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="veY12ddWGGK74OkhvajF-3" value="Do it, or regret not doing it." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="veY12ddWGGK74OkhvajF-2">
+          <mxGeometry x="0.1812" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOSCpickuRpwtorIMnZY-34" value="I do, and almost all of them are of my grandmother. I loved how she could do so much with her magic, how she could turn invisible or make someone like her more with a flick of her hand. Though she died just before I... changed. I&#39;ve often wondered whether she&#39;d accept me, would she have been proud of me? I don&#39;t think so, not with how I&#39;ve ran away from everything, and yet I can&#39;t help but drag up an old hope that she&#39;s actually in a hidden section of the tomb. If that exists, should I even attempt to speak with her?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-25" y="838.57" width="350" height="131.43" as="geometry" />
         </mxCell>
         <mxCell id="IOSCpickuRpwtorIMnZY-40" value="Yes, there was: my grandmother. I can&#39;t hear her either, which makes everything hurt all the more. I find myself hoping that there&#39;s a hidden section of the tomb, just as I once did, and that she&#39;s there. And that&#39;s why I can&#39;t hear her, but I&#39;m probably just letting myself be fooled by hope once again." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1330" y="842.85" width="350" height="101.43" as="geometry" />
@@ -318,7 +346,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOSCpickuRpwtorIMnZY-48" value="I… Thank you %PCName… That means a lot to me. [She is silent for a minute.] I&#39;ve always felt like a coward or that I was weak for running away, rather than sticking with it. Everything that I&#39;ve done has been to get as far away from my family. I think I&#39;ve been hurting myself. I had hoped to speak to my grandmother, but she too is silent. I once suspected that there is a hidden section in this tomb, and she&#39;s in there and that&#39;s why I can&#39;t hear her." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IOSCpickuRpwtorIMnZY-48" value="I… Thank you %PCName… That means a lot to me. [She is silent for a minute.] I&#39;d always felt like a coward or that I was weak for running away, rather than sticking with it. It had just become so unbearable that I thought I&#39;d never want to see them again, and yet I&#39;ve come back here. Hoping. I had hoped to speak to my grandmother, but she too is silent. I had once suspected that there is a hidden section in this tomb. That I can&#39;t hear her because she&#39;s there." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-900" y="823.57" width="350" height="140" as="geometry" />
         </mxCell>
         <mxCell id="IOSCpickuRpwtorIMnZY-51" value="Temple" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
@@ -327,74 +355,120 @@
         <mxCell id="IOSCpickuRpwtorIMnZY-52" value="I hadn&#39;t thought about it like that. [A look of contemplation passes over her face, before easing into a lighter expression.] Thank you sera %PCName for being patient with me and hearing me out." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1110" y="1120" width="350" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IOSCpickuRpwtorIMnZY-53" value="Thank you sera %PCName, I hope that&#39;s true. There&#39;s so much more that I want to do, but never felt like I could stick with it." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-700" y="1150" width="350" height="60" as="geometry" />
+        <mxCell id="xyJShZ9he86IWVPFFUtm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IOSCpickuRpwtorIMnZY-53" target="xyJShZ9he86IWVPFFUtm-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyJShZ9he86IWVPFFUtm-34" value="&lt;div&gt;You don&#39;t have to reach out to her now. Go out into the world with the promise that&#39;ll you&#39;ll make her proud held deep within your heart.&lt;/div&gt;&lt;div&gt;Then, when you&#39;re ready, return here to tell her about all that you&#39;ve done.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xyJShZ9he86IWVPFFUtm-32" vertex="1" connectable="0">
+          <mxGeometry x="0.5034" y="-2" relative="1" as="geometry">
+            <mxPoint x="-63" y="-21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xyJShZ9he86IWVPFFUtm-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IOSCpickuRpwtorIMnZY-53" target="xyJShZ9he86IWVPFFUtm-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xyJShZ9he86IWVPFFUtm-35" value="&lt;div&gt;The unknown meeting is always the scariest, because we cannot anticipate it&#39;s contents.&lt;/div&gt;&lt;div&gt;You mentioned their might be a hidden section? Then let&#39;s find it so that you can make the unknown known.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xyJShZ9he86IWVPFFUtm-33" vertex="1" connectable="0">
+          <mxGeometry x="0.7872" y="4" relative="1" as="geometry">
+            <mxPoint x="-4" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IOSCpickuRpwtorIMnZY-53" value="Thank you sera %PCName, I hope that&#39;s true. There&#39;s so much more that I want to do, but never felt like I could stick with it. Because right now, I&#39;m a bit of a failure. Even if my family&#39;s spirits spoke to me they&#39;d be disappointed that I haven&#39;t dedicated myself to anything. When the going gets tough I move to a new town, or guild, or job. Not staying long enough to even leave behind any friends or lovers. I want to speak to grandmother, but I&#39;m scared of what she&#39;d think of me. Of what she&#39;d say." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-700" y="1085" width="350" height="130" as="geometry" />
         </mxCell>
         <mxCell id="IOSCpickuRpwtorIMnZY-58" value="Continue through &quot;hidden section&quot; topic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="-1050" y="1210" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IOSCpickuRpwtorIMnZY-59" value="Continue through &quot;hidden section&quot; topic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="1230" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-1" value="&lt;font style=&quot;font-size: 32px; color: rgb(255, 51, 51);&quot;&gt;NEW&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-1" value="&lt;font style=&quot;font-size: 32px; color: rgb(255, 51, 51);&quot;&gt;NEW&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="225" y="-20" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-5" value="ModDisposition 10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="-995" y="1250" width="120" height="30" as="geometry" />
+        <mxCell id="xyJShZ9he86IWVPFFUtm-5" value="ModDisposition 10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="-1250" y="1135" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-6" value="ModDisposition 10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="-585" y="1270" width="120" height="30" as="geometry" />
+        <mxCell id="xyJShZ9he86IWVPFFUtm-6" value="ModDisposition 10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="-340" y="1135" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-9" value="&lt;div&gt;tlvoat_hasPCReceiveReward1 == 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-9" value="&lt;div&gt;tlvoat_hasPCReceiveReward1 == 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="625" y="260" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-10" value="&lt;div&gt;tlvoat_hasPCReceiveReward1 == 0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-10" value="&lt;div&gt;tlvoat_hasPCReceiveReward1 == 0&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="10" y="360" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-14" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-14" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-80" y="270" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-15" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-15" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="320" y="310" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-16" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-16" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="595" y="570" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-17" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-17" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="970" y="550" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-18" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-18" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-110" y="375" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-19" value="10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-19" value="10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-1135" y="520" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-20" value="11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-20" value="11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-290" y="560" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-21" value="12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-21" value="12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-250" y="740" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-22" value="13" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-22" value="13" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="130" y="740" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-23" value="10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-23" value="10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-915" y="620" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-24" value="20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-24" value="20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-1600" y="740" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-25" value="21" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-25" value="21" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-1130" y="760" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-26" value="22" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-26" value="22" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-760" y="750" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-27" value="23" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-27" value="23" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-990" y="1030" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-28" value="24" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-28" value="24" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="-485" y="1050" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xyJShZ9he86IWVPFFUtm-29" value="Then, %PCName, bear witness to this promise that I, Aryasi Othral, will make something of my life. To make settle in one place, make friends, and return here with happiness in my heart. So that I can make grandmother proud of me! I will try the Mages Guild and work from there I think. Hey, %PCName, I want to thank you. All I have left is my grandmother&#39;s ring, and I want you to have it." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-710" y="1440" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xyJShZ9he86IWVPFFUtm-30" value="You&#39;re right %PCName. I need to not continue my life with regrets. If it&#39;s that she isn&#39;t here, then let&#39;s begin with the shrine as I remember once watching my mother do something to it, but I could never find anything. Your fresh eyes and hands might reveal something." style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-310" y="1440" width="350" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xyJShZ9he86IWVPFFUtm-36" value="&lt;div&gt;End quest&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="-820" y="1485" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xyJShZ9he86IWVPFFUtm-37" value="Journal &quot;tlvoat_Estranged_Spirits&quot;, 40" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="-235" y="1560" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xyJShZ9he86IWVPFFUtm-38" value="Journal &quot;tlvoat_Estranged_Spirits&quot;, 70" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="-635" y="1580" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xyJShZ9he86IWVPFFUtm-39" value="&lt;div&gt;set tlvoat_isEarlyFinish to 1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="-605" y="1620" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xyJShZ9he86IWVPFFUtm-40" value="Continue through &quot;grandmother&#39;s ring&quot; topic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="-650" y="1670" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="veY12ddWGGK74OkhvajF-5" value="30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="10" y="1050" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="veY12ddWGGK74OkhvajF-6" value="30" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="1310" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="veY12ddWGGK74OkhvajF-7" value="31" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="1340" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="veY12ddWGGK74OkhvajF-8" value="31" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1230" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
