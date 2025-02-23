@@ -17,3 +17,7 @@ Adds:
 
 To reach Othral Ancestral Tomb and Aryasi, leave Andothren through the east gate and simply follow the road
 until you get to a river. Cross it and the tomb will be on your left.
+
+### Content
+
+The quest deals with themes of [hidden]family ostrasization from a [hidden]trans/queer perspective.

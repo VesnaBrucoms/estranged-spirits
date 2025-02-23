@@ -315,7 +315,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IOSCpickuRpwtorIMnZY-34" value="I do, and almost all of them are of my grandmother. I loved how she could do so much with her magic, how she could turn invisible or make someone like her more with a flick of her hand. Though she died just before I... changed. I&#39;ve often wondered whether she&#39;d accept me, would she have been proud of me? I don&#39;t think so, not with how I&#39;ve ran away from everything, and yet I can&#39;t help but drag up an old hope that she&#39;s actually in a hidden section of the tomb. If that exists, should I even attempt to speak with her?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IOSCpickuRpwtorIMnZY-34" value="Yes, and almost all of them are of my grandmother. I loved how she could do so much with her magic, how she could turn invisible or make someone like her with a flick of her hand. Though she died just before I... changed. I&#39;ve often wondered whether she&#39;d accept and be proud of me? I don&#39;t think so, not with how I&#39;ve ran away from everything, and yet I can&#39;t help but drag up an old hope that she&#39;s actually in a hidden section of the tomb. If that exists, should I even attempt to speak with her?" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-25" y="838.57" width="350" height="131.43" as="geometry" />
         </mxCell>
         <mxCell id="IOSCpickuRpwtorIMnZY-40" value="Yes, there was: my grandmother. I can&#39;t hear her either, which makes everything hurt all the more. I find myself hoping that there&#39;s a hidden section of the tomb, just as I once did, and that she&#39;s there. And that&#39;s why I can&#39;t hear her, but I&#39;m probably just letting myself be fooled by hope once again." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -358,7 +358,7 @@
         <mxCell id="xyJShZ9he86IWVPFFUtm-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IOSCpickuRpwtorIMnZY-53" target="xyJShZ9he86IWVPFFUtm-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xyJShZ9he86IWVPFFUtm-34" value="&lt;div&gt;You don&#39;t have to reach out to her now. Go out into the world with the promise that&#39;ll you&#39;ll make her proud held deep within your heart.&lt;/div&gt;&lt;div&gt;Then, when you&#39;re ready, return here to tell her about all that you&#39;ve done.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xyJShZ9he86IWVPFFUtm-32" vertex="1" connectable="0">
+        <mxCell id="xyJShZ9he86IWVPFFUtm-34" value="&lt;div&gt;You don&#39;t have to reach out to her now. Go out into the world with the promise that&#39;ll you&#39;ll make her proud held deep within your heart.&lt;/div&gt;&lt;div&gt;Then return when you&#39;re ready.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xyJShZ9he86IWVPFFUtm-32" vertex="1" connectable="0">
           <mxGeometry x="0.5034" y="-2" relative="1" as="geometry">
             <mxPoint x="-63" y="-21" as="offset" />
           </mxGeometry>
