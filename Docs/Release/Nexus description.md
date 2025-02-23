@@ -20,4 +20,4 @@ until you get to a river. Cross it and the tomb will be on your left.
 
 ### Content
 
-The quest deals with themes of [hidden]family ostrasization from a [hidden]trans/queer perspective.
+The quest deals with themes of [hidden]family ostracization from a [hidden]trans/queer perspective.
