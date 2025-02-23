@@ -1,4 +1,3 @@
-* ADD ABILITY FOR PC TO END QUEST EARLY THROUGH DIALOGUE (GOOD)
 * do a "fresh" run to determine Aryasi's story flow
 * expand good ends dialogue to cover Aryasi's feelings on her family
 * figure out the "marketing"
