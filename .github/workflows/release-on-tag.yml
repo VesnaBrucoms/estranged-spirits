@@ -7,7 +7,7 @@ on:
 permissions:
   contents: write
 env:
-  ZIPFILE_NAME: Estranged Spirits
+  ZIPFILE_NAME: EstrangedSpirits
   README_NAME: Estranged Spirits Readme
 jobs:
   build:
