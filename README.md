@@ -24,7 +24,7 @@ Mods:
 
 ## Licensing
 
-Othral Ancestral Tomb is under the [MIT license](./LICENSE).
+Estranged Spirits is under the [MIT license](./LICENSE).
 
 Broadly speaking this means you can do whatever you want to this mod, but please credit me as the original
 author.

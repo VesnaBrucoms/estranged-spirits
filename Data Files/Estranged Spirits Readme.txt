@@ -1,7 +1,7 @@
 				Estranged Spirits
 				By LadyVulcan
 
-Version: v1.0.0
+Version: v1.1.0
 
 =========
 Contents
@@ -73,7 +73,7 @@ You can find me on GitHub as 'VesnaBrucoms'.
 ==========
 Licensing
 ==========
-Othral Ancestral Tomb is under the MIT license.
+Estranged Spirits is under the MIT license.
 
 Broadly speaking this means you can do whatever you want to this mod, but please credit me as the original author.
 
