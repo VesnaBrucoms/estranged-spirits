@@ -39,3 +39,5 @@ Thanks to...
 * Nexus Mods for the one-stop-shop resource for authors and players.
 * All of the fine folk who made the CSSE, which makes modding so much easier.
 * Everyone behind Tamriel Rebuilt and Tamriel_Data past and present.
+* Pixel Saga for the [Planewalker](https://www.dafont.com/planewalker.font) (Magic Cards) font used in the thumbnail.
+* Madsthegamer for the [deadric font](https://www.nexusmods.com/oblivion/mods/31883).
