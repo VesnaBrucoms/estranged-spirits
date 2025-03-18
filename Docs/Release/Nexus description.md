@@ -10,8 +10,9 @@ ways out of eastern Andothren. The quest and Aryasi will react to the player's d
 Adds:
 * A medium sized tomb
 * A short quest, *Estranged Spirits*, to take you through the tomb
-* The quest has many endings and routes through it
-* Aryasi reacts differently based on your actions
+* **127 lines of dialogue**, allowing for:
+  * The quest to have many endings and routes through it
+  * Aryasi to react differently based on your actions
 
 ### Directions
 
@@ -21,3 +22,11 @@ until you get to a river. Cross it and the tomb will be on your left.
 ### Content
 
 The quest deals with themes of [hidden]family ostracization from a [hidden]trans/queer perspective.
+
+### Incompatibilities
+
+No known incompatibilities at this point.
+
+Exterior cells changed:
+
+* Roth Roryn Region (2, -18)

@@ -59,6 +59,10 @@ Incompatibilities
 ==================
 No known incompatibilities at this point.
 
+Exterior cells changed:
+
+* Roth Roryn Region (2, -18)
+
 =====================
 Known Issues or Bugs
 =====================
@@ -76,6 +80,9 @@ Licensing
 Estranged Spirits is under the MIT license.
 
 Broadly speaking this means you can do whatever you want to this mod, but please credit me as the original author.
+
+You are very much free to use the assets in your own mods separate from the rest of this one. Just please
+credit me as the original author. (Also let me know! I'd be most interested in checking out your own work.)
 
 If you're looking to redistribute or share modifications to this, please include the license found on here on GitHub.
 
