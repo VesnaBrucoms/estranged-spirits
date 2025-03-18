@@ -23,6 +23,12 @@ until you get to a river. Cross it and the tomb will be on your left.
 
 The quest deals with themes of [hidden]family ostracization from a [hidden]trans/queer perspective.
 
+### Updating to v1.2.0
+
+If you're updating from a previous version, it should work unless possibly if you enchanted the Othral
+Family Blade. The change to the model and stats might cause issue, but I'm honestly not sure. Might be
+best to upgrade at a later point if that's the case.
+
 ### Incompatibilities
 
 No known incompatibilities at this point.
